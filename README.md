@@ -2,7 +2,7 @@
 Photo gallery using flexbox and lightbox with categoty buttons.
 
 # What I learned
--  jQuery filter mothod 
+-  jQuery filter method 
 ```
 The filter() method returns elements that match a certain criteria.
 ```
